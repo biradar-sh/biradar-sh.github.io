@@ -5,3 +5,6 @@
 layout: single
 author_profile: true
 ---
+Hi, I’m Shruti — a curious data scientist who loves turning messy data into meaningful stories.
+I enjoy building smart ML systems, experimenting with GenAI, and simplifying complex problems.
+When I’m not coding, you’ll find me dancing, gardening, or exploring new tools just for fun!
